@@ -82,16 +82,9 @@ LIMIT 5;
 
 ---
 
-## 🚀 How to Showcase on LinkedIn
-Post about your project with something like:
-
 > 🎉 I built a **Restaurant Management System** using PostgreSQL!  
 > It handles reservations, staff scheduling, and order management — with realistic data and advanced SQL queries.  
 > Skills: SQL, database design, query optimization, and data analysis.  
->  
-> 💾 GitHub Repo: [your link here]
 
 ---
 
-## 🏁 License
-MIT License – free to use and modify.
